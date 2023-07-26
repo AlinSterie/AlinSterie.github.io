@@ -51,7 +51,7 @@ const services = [
     icon: web,
   },
   {
-    title: "Backend Engineer",
+    title: "Fullstack Engineer",
     icon: backend,
   },
   {
